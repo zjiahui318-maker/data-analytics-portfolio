@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+.codex/
+.vercel/
+node_modules/
+dist/
+tmp/
+
+# Optional, separately sourced industry-level inputs and rebuild outputs.
+/projects/mortgage-refinancing/data/raw/rba-f6-*.csv
+/projects/mortgage-refinancing/data/quarterly.csv
+/projects/mortgage-refinancing/data/snapshot.json
+/output/pdf/Australian_Mortgage_Refinancing_Brief.pdf

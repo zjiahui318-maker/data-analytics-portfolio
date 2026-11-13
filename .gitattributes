@@ -1,0 +1,3 @@
+# Preserve exact bytes of input snapshots, including across Windows checkouts.
+projects/**/data/raw/** -text
+projects/credit-card-default/data/uci-credit-card-default.csv -text

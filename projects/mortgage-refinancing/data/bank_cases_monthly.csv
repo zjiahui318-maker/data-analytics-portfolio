@@ -1,0 +1,40 @@
+month_end,bank,abn,institution_name,owner_occupied_aud_m,investment_aud_m
+2025-09-30,CBA,48123123124,Commonwealth Bank of Australia,395809.6,207263.5
+2025-10-31,CBA,48123123124,Commonwealth Bank of Australia,397476,209398.1
+2025-11-30,CBA,48123123124,Commonwealth Bank of Australia,399801.4,211685.5
+2025-12-31,CBA,48123123124,Commonwealth Bank of Australia,402223.9,214221.4
+2026-01-31,CBA,48123123124,Commonwealth Bank of Australia,403485.1,215733.7
+2026-02-28,CBA,48123123124,Commonwealth Bank of Australia,404862.1,216537.3
+2026-03-31,CBA,48123123124,Commonwealth Bank of Australia,406598.8,217895.4
+2026-04-30,CBA,48123123124,Commonwealth Bank of Australia,408202.3,219340.5
+2026-05-31,CBA,48123123124,Commonwealth Bank of Australia,409938.2,220558.5
+2026-06-30,CBA,48123123124,Commonwealth Bank of Australia,413404.9,222096.3
+2026-07-31,CBA,48123123124,Commonwealth Bank of Australia,414944,222518
+2026-08-31,CBA,48123123124,Commonwealth Bank of Australia,417108.4,222949.2
+2026-09-30,CBA,48123123124,Commonwealth Bank of Australia,419539.4,223317.2
+2025-09-30,NAB,12004044937,National Australia Bank Limited,224928.4,113492.5
+2025-10-31,NAB,12004044937,National Australia Bank Limited,225951.9,114182.5
+2025-11-30,NAB,12004044937,National Australia Bank Limited,228222.7,113443.8
+2025-12-31,NAB,12004044937,National Australia Bank Limited,232542.8,111123.6
+2026-01-31,NAB,12004044937,National Australia Bank Limited,233105.5,111611.1
+2026-02-28,NAB,12004044937,National Australia Bank Limited,233519.4,112087.3
+2026-03-31,NAB,12004044937,National Australia Bank Limited,234157.1,112798.4
+2026-04-30,NAB,12004044937,National Australia Bank Limited,235080.9,113416.8
+2026-05-31,NAB,12004044937,National Australia Bank Limited,235617.1,114129.8
+2026-06-30,NAB,12004044937,National Australia Bank Limited,236317.6,115194.8
+2026-07-31,NAB,12004044937,National Australia Bank Limited,236203.1,115261.7
+2026-08-31,NAB,12004044937,National Australia Bank Limited,236321,115340
+2026-09-30,NAB,12004044937,National Australia Bank Limited,235940.3,115058.5
+2025-09-30,Westpac,33007457141,Westpac Banking Corporation,325909,165928.6
+2025-10-31,Westpac,33007457141,Westpac Banking Corporation,328230.6,166546
+2025-11-30,Westpac,33007457141,Westpac Banking Corporation,330790,167704.2
+2025-12-31,Westpac,33007457141,Westpac Banking Corporation,333243.4,169263.1
+2026-01-31,Westpac,33007457141,Westpac Banking Corporation,334336.3,170274.4
+2026-02-28,Westpac,33007457141,Westpac Banking Corporation,335565.2,170928.9
+2026-03-31,Westpac,33007457141,Westpac Banking Corporation,337081.9,171878
+2026-04-30,Westpac,33007457141,Westpac Banking Corporation,339010.6,173346.9
+2026-05-31,Westpac,33007457141,Westpac Banking Corporation,340321.7,174518
+2026-06-30,Westpac,33007457141,Westpac Banking Corporation,341776.9,175838.7
+2026-07-31,Westpac,33007457141,Westpac Banking Corporation,342550.7,175409.2
+2026-08-31,Westpac,33007457141,Westpac Banking Corporation,332861.6,170979.3
+2026-09-30,Westpac,33007457141,Westpac Banking Corporation,334577.7,170685.9

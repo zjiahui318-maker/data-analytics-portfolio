@@ -1,0 +1,66 @@
+{
+  "Owner occupier": {
+    "levels": {
+      "n": 29,
+      "r": -0.6775,
+      "looMin": -0.7361,
+      "looMax": -0.6398
+    },
+    "sameQuarter": {
+      "n": 28,
+      "r": -0.0229,
+      "looMin": -0.1588,
+      "looMax": 0.1606
+    },
+    "nextQuarter": {
+      "n": 27,
+      "r": -0.2174,
+      "looMin": -0.2593,
+      "looMax": -0.1278
+    },
+    "sameQuarterVariable": {
+      "n": 28,
+      "r": 0.1916,
+      "looMin": 0.108,
+      "looMax": 0.2498
+    },
+    "nextQuarterVariable": {
+      "n": 27,
+      "r": 0.3073,
+      "looMin": 0.1034,
+      "looMax": 0.3907
+    }
+  },
+  "Investor": {
+    "levels": {
+      "n": 29,
+      "r": -0.5461,
+      "looMin": -0.6081,
+      "looMax": -0.5137
+    },
+    "sameQuarter": {
+      "n": 28,
+      "r": 0.0379,
+      "looMin": -0.0496,
+      "looMax": 0.2029
+    },
+    "nextQuarter": {
+      "n": 27,
+      "r": -0.0242,
+      "looMin": -0.0768,
+      "looMax": 0.0686
+    },
+    "sameQuarterVariable": {
+      "n": 28,
+      "r": -0.1945,
+      "looMin": -0.3826,
+      "looMax": -0.1432
+    },
+    "nextQuarterVariable": {
+      "n": 27,
+      "r": 0.6145,
+      "looMin": 0.4377,
+      "looMax": 0.6577
+    }
+  }
+}
